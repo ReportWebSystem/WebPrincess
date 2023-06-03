@@ -12,7 +12,7 @@ const userManager = require('./utils/userManager');
 const productManager = require('./utils/productManager');
 
 //팩토리 패턴을 통해 UserManager에서 사용자를 생성
-const admin = userManager.createUser('원빈', 'admin'); //관리자
+const admin = userManager.createUser('민성', 'admin'); //관리자
 const customer = userManager.createUser('진모', 'customer'); //고객
 
 productManager.addProduct('laptop', 10, 2000000);  //이름, 분량, 가격
