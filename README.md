@@ -3,7 +3,7 @@
 ---
 Table of Contents
 * [Order System TeamProject](#order-system-teamproject)
-    * [프로젝트 개요](#프로젝트-개요)
+    * [Contributors](#-contributors)
     * [진행상황](#진행상황)
     * [출력화면](#출력화면)
     * [사용법](#사용법)
@@ -15,14 +15,8 @@ node.js의 콘솔창을 이용하여 라이브러리 함수를 구현하는것�
 
 일반적인 홈쇼핑 사이트를 구현하고자 했고, 기본적인 상품 등록, 변경, 수량 체크, 관리자와 고객으로 기능을 분류하였습니다.
 
-## 프로젝트 개요
 
----
 
-Team members:
-
-- 조민성
-- 변진모
 <br>
 
 ## 👨🏻‍💻 Contributors
