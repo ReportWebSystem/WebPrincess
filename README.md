@@ -20,14 +20,15 @@ node.js의 콘솔창을 이용하여 라이브러리 함수를 구현하는것�
 ---
 
 Team members:
-
 - 조민성
 - 변진모
+
 ## 👨🏻‍💻 Contributors
 
 <a href="https://github.com/ReportWebSystem/WebPrincess/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ReportWebSystem/WebPrincess" />
+  <img alt="" src="https://contrib.rocks/image?repo=ReportWebSystem/WebPrincess" width="100" height="100"/>
 </a>
+<br>
 
 ## 진행상황
 
