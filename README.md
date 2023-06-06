@@ -1,6 +1,10 @@
 # Order System TeamProject
 
 ---
+
+* [디자인패턴설계도](https://www.notion.so/b839154e80c9450e9975bd830262c673?pvs=4)
+
+---
 Table of Contents
 * [Order System TeamProject](#order-system-teamproject)
     * [프로젝트 개요](#프로젝트-개요)
