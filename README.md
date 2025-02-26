@@ -57,7 +57,17 @@ Team members:
 
 ---
 
-<img src="https://ifh.cc/g/SMC3tn.jpg">
+### 회원가입 요청 API
+<img width="655" alt="Image" src="https://github.com/user-attachments/assets/be0b3a38-d36f-4ff3-bfc7-e39c1d92f6aa" />
+
+### 개인 건강정보 생성 요청 API
+<img width="651" alt="Image" src="https://github.com/user-attachments/assets/5398d629-3ef4-47c0-9c3e-5f97d55edbd2" />
+
+### 건강 식품 정보 생성 요청 API
+<img width="708" alt="Image" src="https://github.com/user-attachments/assets/59f1a646-e172-41ba-836d-4f9d60b17ad7" />
+
+### 스톱워치를 이용한 러닝 정보 생성 요청 API
+<img width="589" alt="Image" src="https://github.com/user-attachments/assets/ce2849d4-e051-4861-8b10-19be3fa09506" />
 
 ## 사용법
 
